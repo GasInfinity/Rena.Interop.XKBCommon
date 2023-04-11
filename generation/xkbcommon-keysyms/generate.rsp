@@ -1,0 +1,14 @@
+@../config.rsp
+
+--file
+/usr/include/xkbcommon/xkbcommon-keysyms.h
+--libraryPath
+xkbcommon
+--namespace
+Rena.Interop.XkbCommon
+--methodClassName
+XkbCommon
+--prefixStrip
+xkb_
+--output
+../../Rena.Interop.XkbCommon/XkbCommon-Keysyms/

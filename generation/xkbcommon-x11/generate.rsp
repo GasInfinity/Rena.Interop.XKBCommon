@@ -1,0 +1,16 @@
+@../config.rsp
+
+--file
+/usr/include/xkbcommon/xkbcommon-x11.h
+--libraryPath
+xkbcommon-x11
+--namespace
+Rena.Interop.XkbCommon
+--methodClassName
+XkbCommonX11
+--prefixStrip
+xkb_x11_
+--output
+../../Rena.Interop.XkbCommon/XkbCommon-X11/
+-r
+xcb_connection_t=void

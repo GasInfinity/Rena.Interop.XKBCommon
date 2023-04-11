@@ -1,0 +1,16 @@
+@../config.rsp
+
+--file
+/usr/include/xkbcommon/xkbregistry.h
+--libraryPath
+xkbregistry
+--namespace
+Rena.Interop.XkbCommon
+--methodClassName
+XkbRegistry
+--prefixStrip
+rxkb_
+--output
+../../Rena.Interop.XkbCommon/XkbRegistry/
+-e
+rxkb_context_set_log_fn

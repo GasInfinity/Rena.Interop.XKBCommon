@@ -1,0 +1,16 @@
+@../config.rsp
+
+--file
+/usr/include/xkbcommon/xkbcommon-compose.h
+--libraryPath
+xkbcommon
+--namespace
+Rena.Interop.XkbCommon
+--methodClassName
+XkbCommon
+--prefixStrip
+xkb_
+--output
+../../Rena.Interop.XkbCommon/XkbCommon-Compose/
+-e
+xkb_compose_table_new_from_file
