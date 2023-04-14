@@ -5,10 +5,10 @@
 --libraryPath
 xkbcommon
 --namespace
-Rena.Interop.XkbCommon
+Rena.Interop.XKBCommon
 --methodClassName
-XkbCommon
+XKBCommon
 --prefixStrip
 xkb_
 --output
-../../Rena.Interop.XkbCommon/XkbCommon-Keysyms/
+../../Rena.Interop.XKBCommon/XKBCommon-Keysyms/

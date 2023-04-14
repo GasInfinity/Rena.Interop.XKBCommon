@@ -5,12 +5,12 @@
 --libraryPath
 xkbregistry
 --namespace
-Rena.Interop.XkbCommon
+Rena.Interop.XKBCommon
 --methodClassName
-XkbRegistry
+XKBRegistry
 --prefixStrip
 rxkb_
 --output
-../../Rena.Interop.XkbCommon/XkbRegistry/
+../../Rena.Interop.XKBCommon/XKBRegistry/
 -e
 rxkb_context_set_log_fn

@@ -1,0 +1,5 @@
+namespace Rena.Interop.XKBCommon;
+
+public partial struct xkb_keymap
+{
+}

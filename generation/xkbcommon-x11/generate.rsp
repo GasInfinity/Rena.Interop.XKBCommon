@@ -5,12 +5,12 @@
 --libraryPath
 xkbcommon-x11
 --namespace
-Rena.Interop.XkbCommon
+Rena.Interop.XKBCommon
 --methodClassName
-XkbCommonX11
+XKBCommonX11
 --prefixStrip
 xkb_x11_
 --output
-../../Rena.Interop.XkbCommon/XkbCommon-X11/
+../../Rena.Interop.XKBCommon/XKBCommon-X11/
 -r
 xcb_connection_t=void

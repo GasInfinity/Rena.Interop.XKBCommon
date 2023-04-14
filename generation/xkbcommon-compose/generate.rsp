@@ -5,12 +5,12 @@
 --libraryPath
 xkbcommon
 --namespace
-Rena.Interop.XkbCommon
+Rena.Interop.XKBCommon
 --methodClassName
-XkbCommon
+XKBCommon
 --prefixStrip
 xkb_
 --output
-../../Rena.Interop.XkbCommon/XkbCommon-Compose/
+../../Rena.Interop.XKBCommon/XKBCommon-Compose/
 -e
 xkb_compose_table_new_from_file
